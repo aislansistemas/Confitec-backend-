@@ -1,0 +1,12 @@
+D:\projetos\test-06-11\api\Confitec.Core\bin\Debug\net6.0\Confitec.Core.deps.json
+D:\projetos\test-06-11\api\Confitec.Core\bin\Debug\net6.0\Confitec.Core.dll
+D:\projetos\test-06-11\api\Confitec.Core\bin\Debug\net6.0\Confitec.Core.pdb
+D:\projetos\test-06-11\api\Confitec.Core\obj\Debug\net6.0\Confitec.Core.csproj.AssemblyReference.cache
+D:\projetos\test-06-11\api\Confitec.Core\obj\Debug\net6.0\Confitec.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\test-06-11\api\Confitec.Core\obj\Debug\net6.0\Confitec.Core.AssemblyInfoInputs.cache
+D:\projetos\test-06-11\api\Confitec.Core\obj\Debug\net6.0\Confitec.Core.AssemblyInfo.cs
+D:\projetos\test-06-11\api\Confitec.Core\obj\Debug\net6.0\Confitec.Core.csproj.CoreCompileInputs.cache
+D:\projetos\test-06-11\api\Confitec.Core\obj\Debug\net6.0\Confitec.Core.dll
+D:\projetos\test-06-11\api\Confitec.Core\obj\Debug\net6.0\refint\Confitec.Core.dll
+D:\projetos\test-06-11\api\Confitec.Core\obj\Debug\net6.0\Confitec.Core.pdb
+D:\projetos\test-06-11\api\Confitec.Core\obj\Debug\net6.0\ref\Confitec.Core.dll
